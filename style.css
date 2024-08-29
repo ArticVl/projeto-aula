@@ -1,8 +1,10 @@
 h1 {
     text-align: center;
+    
 }
-body {
-    break-inside: auto;
-
-
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
 }
